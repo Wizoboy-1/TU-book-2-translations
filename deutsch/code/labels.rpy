@@ -14,7 +14,7 @@ translate deutsch android_save_load_819cc5b2:
 translate deutsch android_save_load_7c46865c:
 
     # "The save data you entered is invalid."
-    "Die von dir eingegebenen Speicherdaten sind ungültig."
+    "Die eingegebenen Speicherdaten sind ungültig."
 
 # game/code/labels.rpy:74
 translate deutsch android_save_load_eb930f19:
@@ -32,5 +32,5 @@ translate deutsch buzz_4377a2f7:
 translate deutsch knock_40511e6c:
 
     # "*knock knock*"
-    "*Klopf, klopf*"
+    "*klop klop*"
 
