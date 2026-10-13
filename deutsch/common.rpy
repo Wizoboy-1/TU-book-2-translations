@@ -94,7 +94,7 @@
 
     # renpy/common/00accessibility.rpy:195
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "Selbstvertonung"
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
@@ -418,7 +418,7 @@
 
     # renpy/common/00director.rpy:1726
     old "Tag:"
-    new "Tag:"
+    new "Etikett:"
 
     # renpy/common/00director.rpy:1742
     old "Attributes:"
@@ -1186,7 +1186,7 @@
 
     # renpy/common/_errorhandling.rpym:739
     old "Rollback"
-    new "Rollback"
+    new "Rücksetzung"
 
     # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
